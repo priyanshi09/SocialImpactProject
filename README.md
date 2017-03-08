@@ -4,9 +4,14 @@ USI - I project: Professor: Lucius Riccio
 
 Team:
 
-Shalmali Kulkarni
+Shalmali Kulkarni       
+
 Michelle Ho
+
 Priyanshi Singh
+
 Shay Lehman
+
 Akshay Penmatcha
+
 Francis Ko
